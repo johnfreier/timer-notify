@@ -1,0 +1,14 @@
+{
+  "name": "timer-notify",
+  "version": "1.0.0",
+  "description": "Send a notification to the desktop after a set amount of time.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "John Freier",
+  "license": "ISC",
+  "dependencies": {
+    "node-notifier": "^5.1.2"
+  }
+}
